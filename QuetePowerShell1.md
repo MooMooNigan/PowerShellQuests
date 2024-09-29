@@ -35,4 +35,20 @@
 
 ## Historique des commandes 
 
-Il n'y a pas de ligne de commande utilisées pour rechercher les cmdlet. Je me suis servi de documentation et d'outils en ligne pour trouver les solutions.
+`6 get-help man`
+
+`7 Get-Help cp`
+
+`8 Get-Help rm`
+
+`9 Get-Help cd`
+
+`10 Get-Help mkdir`
+
+`11 Get-Help man`
+
+`12 Get-Help history`
+
+`13 Get-Help alias`
+
+`14 Get-Help cat`
