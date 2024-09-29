@@ -32,3 +32,6 @@
     
     - Linux : `cat file`
     - PowerShell : `Get-Content file` 
+
+
+// il n'y a pas de ligne de commande utilisées pour rechercher les cmdlet. Je me suis servi de documentation mis à ma disposition pour trouver les solutions.
