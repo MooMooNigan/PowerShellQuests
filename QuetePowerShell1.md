@@ -35,18 +35,13 @@
 
 ## Historique des commandes 
 
-`7 Get-Help cp`
-
-`8 Get-Help rm`
-
-`9 Get-Help cd`
-
-`10 Get-Help mkdir`
-
-`11 Get-Help man`
-
-`12 Get-Help history`
-
-`13 Get-Help alias`
-
-`14 Get-Help cat`
+```
+7 Get-Help cp
+8 Get-Help rm
+9 Get-Help cd
+10 Get-Help mkdir
+11 Get-Help man
+12 Get-Help history
+13 Get-Help alias
+14 Get-Help cat
+```
