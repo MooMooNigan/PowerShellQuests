@@ -33,5 +33,6 @@
     - Linux : `cat file`
     - PowerShell : `Get-Content file` 
 
+## Historique des commandes 
 
-// il n'y a pas de ligne de commande utilisées pour rechercher les cmdlet. Je me suis servi de documentation mis à ma disposition pour trouver les solutions.
+Il n'y a pas de ligne de commande utilisées pour rechercher les cmdlet. Je me suis servi de documentation et d'outils en ligne pour trouver les solutions.
