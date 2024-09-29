@@ -35,8 +35,6 @@
 
 ## Historique des commandes 
 
-`6 get-help man`
-
 `7 Get-Help cp`
 
 `8 Get-Help rm`
